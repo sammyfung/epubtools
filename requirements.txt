@@ -1,0 +1,4 @@
+EbookLib==0.20
+pillow==12.1.0
+pypdf==6.5.0
+PyMuPDF==1.26.7
